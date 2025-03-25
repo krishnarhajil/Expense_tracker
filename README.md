@@ -92,4 +92,7 @@ Content-Type: application/json
 Delete an expense:
 ```
 DELETE http://localhost:8000/expenses/1
-``` 
+```
+
+## Conclusion
+This expense tracking system enables users to efficiently record, organize, and manage their financial activities, making it easy to review and keep track of their expenses.
